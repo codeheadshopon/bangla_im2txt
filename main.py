@@ -41,4 +41,4 @@ f.close()
 
 
 #After Saving The pickle file please remove above lines, You can read the pickle file by uncommenting the following line Sir 
-#(X_train,y_train),(X_test,y_test)=dataset_load('./banglaim2txt.pkl.gz')
+#(X_train,Y_train),(X_test,Y_test)=dataset_load('./banglaim2txt.pkl.gz')
